@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://VernihoraIvan.github.io/HealthyHub/",
+  "homepage": "https://VernihoraIvan.github.io/HealthyHubTeamProject/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
